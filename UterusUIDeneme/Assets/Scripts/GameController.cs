@@ -99,7 +99,7 @@ RefreshSide(Side.Right, nextRight);
 
                 // drag eventi için controller referansı ver
                 var drag = v.GetComponent<DraggablePage>();
-                if (drag) drag.controller = this;
+                // if (drag) drag.controller = this;
             }
         }
 

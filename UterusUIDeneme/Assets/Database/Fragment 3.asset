@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74474cd1c9fe94dd7845fe1c9df2968b, type: 3}
   m_Name: Fragment 3
   m_EditorClassIdentifier: 
-  dialogueText: 
+  dialogueText: "Abc\t"
   choices:
   - choiceText: 
     dialogueFragment: {fileID: 0}
+    onChoiceSelected:
+      m_PersistentCalls:
+        m_Calls: []
   - choiceText: 
     dialogueFragment: {fileID: 0}
+    onChoiceSelected:
+      m_PersistentCalls:
+        m_Calls: []

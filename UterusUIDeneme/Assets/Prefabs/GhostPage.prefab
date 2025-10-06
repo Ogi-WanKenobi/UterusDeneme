@@ -358,8 +358,8 @@ GameObject:
   - component: {fileID: 4979444346942614213}
   - component: {fileID: 2062039361769378264}
   - component: {fileID: 5296430410339866442}
-  - component: {fileID: 8186560624518995035}
   - component: {fileID: -4533189246857410264}
+  - component: {fileID: 7083647213318065952}
   m_Layer: 5
   m_Name: GhostPage
   m_TagString: Untagged
@@ -422,23 +422,6 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!114 &8186560624518995035
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4003256673837021156}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 79e847d600e5176499b063460b7765fd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  headerText: {fileID: 6386997224213896728}
-  bodyText: {fileID: 1686582431161731807}
-  footerText: {fileID: 7683919488331251873}
-  node: {fileID: 0}
-  side: 0
 --- !u!114 &-4533189246857410264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -451,7 +434,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76e2ac5152128824cb3a03a3077b029f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 0}
+--- !u!114 &7083647213318065952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4003256673837021156}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8581763b7e704d8bb14e282b73d8ec2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  choice:
+    choiceText: 
+    dialogueFragment: {fileID: 0}
+    onChoiceSelected:
+      m_PersistentCalls:
+        m_Calls: []
 --- !u!1 &4096503562256150465
 GameObject:
   m_ObjectHideFlags: 0
