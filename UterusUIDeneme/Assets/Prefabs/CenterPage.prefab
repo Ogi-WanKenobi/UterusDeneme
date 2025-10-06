@@ -14,8 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1686582431161731807, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
       propertyPath: m_text
-      value: "20 sene \xF6nce Uterus'a ayak bast\u0131m ve orada bir \u015Fey buldum.
-        Buldu\u011Fum \u015Fey:"
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1686582431161731807, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
       propertyPath: m_fontSize
@@ -115,8 +114,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6386997224213896728, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
       propertyPath: m_text
-      value: "Benim ad\u0131m Akira Genjo. \u015E\xF6yleydim b\xF6yleydim. iyiydim
-        yani."
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6386997224213896728, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
       propertyPath: m_fontSize
