@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6965356818677098945
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1615020391505352734, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686582431161731807, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_text
+      value: "20 sene \xF6nce Uterus'a ayak bast\u0131m ve orada bir \u015Fey buldum.
+        Buldu\u011Fum \u015Fey:"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686582431161731807, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686582431161731807, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4003256673837021156, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_Name
+      value: CenterPage
+      objectReference: {fileID: 0}
+    - target: {fileID: 4096503562256150465, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979444346942614213, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6386997224213896728, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_text
+      value: "Benim ad\u0131m Akira Genjo. \u015E\xF6yleydim b\xF6yleydim. iyiydim
+        yani."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6386997224213896728, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6386997224213896728, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8186560624518995035, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+    - {fileID: -4533189246857410264, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4003256673837021156, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -3456480426908056578}
+  m_SourcePrefab: {fileID: 100100000, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+--- !u!114 &723723907126290784 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7683919488331251873, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+  m_PrefabInstance: {fileID: 6965356818677098945}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4038259084552255449 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6386997224213896728, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+  m_PrefabInstance: {fileID: 6965356818677098945}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &6280137340813024805 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4003256673837021156, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+  m_PrefabInstance: {fileID: 6965356818677098945}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-3456480426908056578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6280137340813024805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeab4fc78f6702648a7b3b36cc71f5e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  headerText: {fileID: 4038259084552255449}
+  bodyText: {fileID: 8632867043665290014}
+  footerText: {fileID: 723723907126290784}
+--- !u!114 &8632867043665290014 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1686582431161731807, guid: 01ea3ffc2daece241ab4ce7038914996, type: 3}
+  m_PrefabInstance: {fileID: 6965356818677098945}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

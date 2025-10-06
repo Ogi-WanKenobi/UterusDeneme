@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f96e5248e5caccc4ea4d5064c1cac024, type: 3}
+  m_Name: RightPage1.1
+  m_EditorClassIdentifier: 
+  headerText: "Lilith'in ayaklar\u0131yd\u0131."
+  bodyText: "\xD6yle ayaklar\u0131 vard\u0131 ki ben bile inanamam\u0131\u015Ft\u0131m. "
+  footerText: "Ve o anda beklenmeyeni yapt\u0131m:"
+  fromLeft:
+    left: {fileID: 11400000, guid: 2af58363889274e4eb1506c09cb6a3d3, type: 2}
+    right: {fileID: 11400000, guid: c40da92caf2a04049bda662f02a80fd8, type: 2}
+  fromRight:
+    left: {fileID: 11400000, guid: 2af58363889274e4eb1506c09cb6a3d3, type: 2}
+    right: {fileID: 11400000, guid: c40da92caf2a04049bda662f02a80fd8, type: 2}

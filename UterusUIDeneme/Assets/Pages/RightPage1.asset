@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f96e5248e5caccc4ea4d5064c1cac024, type: 3}
+  m_Name: RightPage1
+  m_EditorClassIdentifier: 
+  headerText: "Ben... Kim oldu\u011Fumu bilmiyorum. Fakat bildi\u011Fim bir \u015Fey
+    var"
+  bodyText: "20 sene \xF6nce Uterus'a ayak bast\u0131m ve orada bir \u015Fey buldum.
+    Buldu\u011Fum \u015Fey:"
+  footerText: 
+  fromLeft:
+    left: {fileID: 0}
+    right: {fileID: 0}
+  fromRight:
+    left: {fileID: 11400000, guid: 3d03d9fcbdd641c479031350ea712959, type: 2}
+    right: {fileID: 11400000, guid: 0a964a842fdd3de44be92627294abd66, type: 2}

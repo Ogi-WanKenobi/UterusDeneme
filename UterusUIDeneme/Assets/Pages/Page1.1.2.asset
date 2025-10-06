@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f96e5248e5caccc4ea4d5064c1cac024, type: 3}
+  m_Name: Page1.1.2
+  m_EditorClassIdentifier: 
+  headerText: "Ayaklar\u0131na kapan\u0131p ondan \xF6z\xFCr diledim."
+  bodyText: "Aman efendim dedim yapmay\u0131n etmeyin"
+  footerText: "Lilith pek rahats\u0131z olmu\u015F gibi de\u011Fildi. Ho\u015Funa
+    gidiyordu belli ki. Ama o anda birden..."
+  fromLeft:
+    left: {fileID: 0}
+    right: {fileID: 0}
+  fromRight:
+    left: {fileID: 0}
+    right: {fileID: 0}
